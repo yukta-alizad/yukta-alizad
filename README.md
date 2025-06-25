@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello, I'm Yukta Alizad<br>💻 Passionate  Developer <br>🎨 Creative Frontend Enthusiast<br>🌱 I’m currently learning Web Development<br>📫 How to reach me yuktaalizad26@gmail.com
+# 👋 Hello, I'm Yukta Alizad
+<br>💻 Passionate  Developer <br>🎨 Creative Frontend Enthusiast<br>🌱 I’m currently learning Web Development<br>📫 How to reach me yuktaalizad26@gmail.com
 
 
 ## 🌐 Socials:
